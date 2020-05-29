@@ -1,0 +1,24 @@
+body, html {
+  background: url(https://free4kwallpapers.com/uploads/originals/2019/11/11/hatsune-miku-anime-vocaloid-girl-wallpaper.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+}
+
+.carousel-item img {
+  width: auto;
+  height: 600px;
+  max-height: 600px;
+}
+
+.buffer {
+  height: 50px;
+}
+
+.tb-img {
+  height: 250px;
+  width: 200px;
+}
+

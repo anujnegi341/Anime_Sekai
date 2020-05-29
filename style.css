@@ -1,0 +1,44 @@
+body, html {
+  font-family: 'Dancing Script', cursive;
+  background: url(bgd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.lead {
+  font-size: 1.75em; 
+}
+
+.jumbotron {
+  background-color: rgba(245, 245, 245, 0.3);
+  padding-top: 40px;
+}
+
+.container {
+  border-bottom: 2px solid tomato;
+}
+
+.buffer {
+  height: 15rem;
+}
+
+.main {
+  position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%)translateY(-50%);
+}
+
+.btn-xl {
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 2em;
+}
+
+.btn-xl:hover {
+  transform: scale(1.2);
+  transition: all 0.5s;
+}
+
